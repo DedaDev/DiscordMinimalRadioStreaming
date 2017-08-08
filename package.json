@@ -1,0 +1,11 @@
+{
+  "name": "DiscordMinimalRadioStreaming",
+  "version": "1.0.0",
+  "description": "This is minimal needed for discord bot to stream radio",
+  "main": "Radio.js",
+  "dependencies": {
+    "discord.js" : "11.0.0",
+    "request" :  "2.81.0",
+  },
+  "author": "dedaloodak",
+}
